@@ -26,7 +26,7 @@
       </div>
       {%- if site.data.navigation.header -%}
       <nav class="navigation">
-        <ul style="font-family: "Poppins";">
+        <ul style="font-family: 'Poppins';">
           {%- for _item in site.data.navigation.header -%}
             {%- include snippets/get-nav-url.html path=_item.url -%}
             {%- assign _nav_url = __return -%}
@@ -39,6 +39,7 @@
               <li class="navigation__item"><a href="{{ _nav_url }}">{%- if _item.title -%}{{ _item.title }}{%- else -%}{{ __return }}{%- endif -%}</a></li>
             {%- endif -%}
           {%- endfor -%}
+              <!-- <li class="navigation__item"><a href="{{ _nav_url }}">Subjects</a></li> -->
           {%- if site.search.provider -%}
             <li><button class="button button--secondary button--circle search-button js-search-toggle"><i class="fas fa-search"></i></button></li>
           {%- endif -%}
