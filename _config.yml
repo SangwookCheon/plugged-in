@@ -221,7 +221,6 @@ collections:
   subjects:
     output: true
     permalink: /subjects/:name
-    order:
   mathematics:
     output: true
     permalink: /subjects/mathematics/:name
