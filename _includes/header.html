@@ -8,12 +8,12 @@
     <div class="main">
       <div class="header__title">
         <div class="header__brand">
-          <img src="/assets/real/favicon-32x32.png" alt="">
+          <!-- <img src="/assets/real/favicon-32x32.png" alt=""> -->
           <!-- {%- include svg/logo.svg -%} -->
           {%- assign _paths_root = site.paths.root | default: site.data.variables.default.paths.root  -%}
           {%- include snippets/get-nav-url.html path=_paths_root -%}
           {%- if site.title -%}
-            <a title="{%- if site.description -%}{{ site.description }}{%- endif -%}" href="{{ __return }}" style="font-size: 25px; font-family: 'Poppins'; font-weight: 600;">{{ site.title }}</a>
+            <a title="{%- if site.description -%}{{ site.description }}{%- endif -%}" href="{{ __return }}" style="font-size: 25px; font-weight: 600;">{{ site.title }}</a>
           {%- endif -%}
 
 
@@ -27,7 +27,7 @@
       </div>
       {%- if site.data.navigation.header -%}
       <nav class="navigation">
-        <ul style="font-family: 'Poppins';">
+        <ul>
 
           <!-- Custom Defined Pages -->
 

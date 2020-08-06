@@ -7,7 +7,3 @@ articles:
   show_readmore: false
 cover: /assets/images/subjects/math.jpg
 ---
-
-
------------
-## How can you receive help?

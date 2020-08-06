@@ -1630,9 +1630,9 @@ body, html, .root, .layout--page { height: 100%; }
 
 .stripe-1 { color: white; background: #00318c; background-size: 100% 20px; margin: 0; height: 80px; }
 
-.stripe-2 { color: #00318c; background: #faff00; background-size: 100% 20px; margin: 0; height: 80px; }
+.stripe-2 { color: black; background: #00318c; background-size: 100% 20px; margin: 0; height: 80px; border-radius: 10px; }
 
-.center-p { font-family: 'Poppins'; font-size: 30px; text-align: center; color: #ffffff; padding: 1rem; margin: 0 0 0.5rem 0; }
+.center-p { font-size: 30px; text-align: center; padding: 1rem; margin: 0 0 0.5rem 0; }
 
 .full-width { width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; }
 
