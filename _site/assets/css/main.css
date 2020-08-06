@@ -1,5 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@400;500&display=swap");
 figure.highlight::before { color: #8e908c !important; background-color: #f7f7f7 !important; }
 
 pre.lineno { color: #8e908c !important; }
@@ -413,14 +412,14 @@ pre.lineno { color: #8e908c !important; }
 html { font-size: 16px; -webkit-text-size-adjust: 100%; /* 1 */ }
 @media print { html { font-size: 14px; } }
 
-body { padding: 0; margin: 0; font: 400 1rem/1.6 "Noto Sans", sans-serif; }
+body { padding: 0; margin: 0; font: 400 1rem/1.6 "Rubik", sans-serif; }
 body ::-moz-selection { background: rgba(62, 100, 255, 0.5); }
 body ::-webkit-selection { background: rgba(62, 100, 255, 0.5); }
 body ::selection { background: rgba(62, 100, 255, 0.5); }
 
 h1, h2, h3, h4, h5, h6, p, hr, blockquote, figure, pre, .highlighter-rouge, ul, ol, dl, table, .footnotes { padding: 0; margin: 0.5rem 0; }
 
-input, textarea, select, button { font: 400 1rem/1.6 "Noto Sans", sans-serif; color: #222; }
+input, textarea, select, button { font: 400 1rem/1.6 "Rubik", sans-serif; color: #222; }
 
 h1, h2, h3, h4, h5, h6, strong { font-weight: 700; }
 
