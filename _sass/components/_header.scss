@@ -13,7 +13,7 @@
   }
 }
 
-.header--dark {
+.header--dark { 
   @extend .text--dark;
   background: rgba(#000, .15);
   .navigation__item--active {
