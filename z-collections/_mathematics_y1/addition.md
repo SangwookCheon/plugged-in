@@ -7,6 +7,7 @@ sidebar:
   nav: mathematics_y1
 permalink: /subjects/mathematics/year1/1-addition
 key: mathematics-y1-addition
+tags: Math
 ---
 
 # What you will learn

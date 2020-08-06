@@ -1,6 +1,8 @@
 header:
   - title: Subjects
     url: /subjects.html
+  - title: Creators
+    url: /creators.html
   - title: Archive
     url: /archive.html
   - title: About

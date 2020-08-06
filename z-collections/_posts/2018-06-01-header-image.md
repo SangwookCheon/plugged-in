@@ -1,12 +1,10 @@
 ---
-title: Post with Header Image
-tags: TeXt
-article_header:
-  type: cover
-  image:
-    src: /screenshot.jpg
+layout: article
+title: Daily Routines in English [Example]
+tags: English
+key: 2018-06-01
 ---
 
-A Post with Header Image, See [Page layout](https://tianqi.name/jekyll-TeXt-theme/samples.html#page-layout) for more examples.
+An example video teaching students English. This could easily be one of the member-created video.
 
-<!--more-->
+<div>{%- include extensions/youtube.html id='eUXkj6j6Ezw' -%}</div>

@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-06T20:38:58+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Naga Belajar</title><subtitle>An online resource for students learning at home.</subtitle><author><name>Plugged-IN</name></author><entry><title type="html">Page - Article Header Image (Immersive + Translucent Header)</title><link href="http://localhost:4000/2018/07/01/welcome.html" rel="alternate" type="text/html" title="Page - Article Header Image (Immersive + Translucent Header)" /><published>2018-07-01T00:00:00+07:00</published><updated>2018-07-01T00:00:00+07:00</updated><id>http://localhost:4000/2018/07/01/welcome</id><content type="html" xml:base="http://localhost:4000/2018/07/01/welcome.html">&lt;h1 id=&quot;there&quot;&gt;There&lt;/h1&gt;
-&lt;p&gt;I have some great news. This website is working.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-06T22:41:52+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Naga Belajar</title><subtitle>An online resource for students learning at home.</subtitle><author><name>Plugged-IN</name></author><entry><title type="html">Origami - How to fold Eagle? [Example]</title><link href="http://localhost:4000/2018/07/01/how-to-fold-eagle.html" rel="alternate" type="text/html" title="Origami - How to fold Eagle? [Example]" /><published>2018-07-01T00:00:00+07:00</published><updated>2018-07-01T00:00:00+07:00</updated><id>http://localhost:4000/2018/07/01/how-to-fold-eagle</id><content type="html" xml:base="http://localhost:4000/2018/07/01/how-to-fold-eagle.html">&lt;p&gt;How to fold Eagle?&lt;/p&gt;
 
-&lt;!--break--&gt;
+&lt;div&gt;&lt;div class=&quot;extensions extensions--video&quot;&gt;
+  &lt;iframe src=&quot;https://www.youtube.com/embed/FSfQF07YxZ8?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><author><name>Plugged-IN</name></author><category term="Origami" /><summary type="html">How to fold Eagle?</summary></entry><entry><title type="html">Daily Routines in English [Example]</title><link href="http://localhost:4000/2018/06/01/header-image.html" rel="alternate" type="text/html" title="Daily Routines in English [Example]" /><published>2018-06-01T00:00:00+07:00</published><updated>2018-06-01T00:00:00+07:00</updated><id>http://localhost:4000/2018/06/01/header-image</id><content type="html" xml:base="http://localhost:4000/2018/06/01/header-image.html">&lt;p&gt;An example video teaching students English. This could easily be one of the member-created video.&lt;/p&gt;
 
-&lt;h2 id=&quot;okay&quot;&gt;Okay&lt;/h2&gt;
-&lt;p&gt;Bye now, see you later.&lt;/p&gt;
-
-&lt;h3 id=&quot;wait&quot;&gt;Wait&lt;/h3&gt;
-&lt;p&gt;this is a third heading. Nested inside “Okay”&lt;/p&gt;
-
-&lt;h1 id=&quot;this&quot;&gt;This&lt;/h1&gt;
-&lt;p&gt;is another BIG heading.&lt;/p&gt;</content><author><name>Plugged-IN</name></author><summary type="html">There I have some great news. This website is working.</summary></entry><entry><title type="html">Post with Header Image</title><link href="http://localhost:4000/2018/06/01/header-image.html" rel="alternate" type="text/html" title="Post with Header Image" /><published>2018-06-01T00:00:00+07:00</published><updated>2018-06-01T00:00:00+07:00</updated><id>http://localhost:4000/2018/06/01/header-image</id><content type="html" xml:base="http://localhost:4000/2018/06/01/header-image.html">&lt;p&gt;A Post with Header Image, See &lt;a href=&quot;https://tianqi.name/jekyll-TeXt-theme/samples.html#page-layout&quot;&gt;Page layout&lt;/a&gt; for more examples.&lt;/p&gt;
-
-&lt;!--more--&gt;</content><author><name>Plugged-IN</name></author><category term="TeXt" /><summary type="html">A Post with Header Image, See Page layout for more examples.</summary></entry></feed>
+&lt;div&gt;&lt;div class=&quot;extensions extensions--video&quot;&gt;
+  &lt;iframe src=&quot;https://www.youtube.com/embed/eUXkj6j6Ezw?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><author><name>Plugged-IN</name></author><category term="English" /><summary type="html">An example video teaching students English. This could easily be one of the member-created video.</summary></entry></feed>
