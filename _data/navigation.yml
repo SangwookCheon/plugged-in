@@ -6,11 +6,20 @@ header:
   - title: About
     url: /about.html
 
-mathematics-y1:
+mathematics_y1:
   - title: Introduction
     children:
-      - title: Chapter 1.1
-      - url: /mathematics/year1/chapter1.html
-      - title: Chapter 2.2
-      - url:
-      - title: Chapter 3.3
+      - title: Overview
+        url: /subjects/mathematics/year1/overview
+      - title: How to Get Help
+        url: /subjects/mathematics/year1/how-to-get-help
+  - title: Unit 1. Simple Arithmetic
+    children:
+      - title: 1.1 Addition
+        url: /subjects/mathematics/year1/1-addition
+      - title: 1.2 Subtraction
+        url: /subjects/mathematics/year1/2-subtraction
+  - title: Unit 2. Trigonometry
+    children:
+      - title: 2.1 Sine Rule
+      - title: 2.2 Identities

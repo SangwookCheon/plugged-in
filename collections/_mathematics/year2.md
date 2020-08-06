@@ -1,9 +1,13 @@
 ---
-layout: articles
-title: Year 2
-articles:
-  data_source: site.mathematicsy1
-  show_excerpt: true
-  show_readmore: false
+layout: article
+title: Year 2 Mathematics
+aside:
+  toc: true
+sidebar:
+  nav: mathematics_y1
 cover: /assets/images/subjects/math.jpg
+key: mathematics_y1_intro
 ---
+Welcome to Mathematics Year 1!
+
+On the left, you will find different chapters. We will provide practice material at the end of each chapter.
