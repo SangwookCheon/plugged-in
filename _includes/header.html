@@ -31,8 +31,6 @@
 
           <!-- Custom Defined Pages -->
 
-          <li class="navigation__item"><a href="{{ site.url }}/subjects">Subjects</a></li>
-
           {%- for _item in site.data.navigation.header -%}
             {%- include snippets/get-nav-url.html path=_item.url -%}
             {%- assign _nav_url = __return -%}

@@ -10,7 +10,7 @@
 ##############################
 text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : # the base hostname & protocol for your site e.g. https://www.someone.com
+url     : https://www.nagabelajar.com # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
 title   : Naga Belajar
 description:  # this means to ignore newlines until "Language & timezone"
@@ -202,6 +202,8 @@ defaults:
       pageview: true
 
 
+
+
 ## => Plugins
 ##############################
 plugins:
@@ -212,13 +214,14 @@ plugins:
   - jekyll-watch
 
 # Collections (for subjects and structured curriculum)
-#
+
+collections_dir: collections
+
 collections:
   subjects:
     output: true
     permalink: /subjects/:name
     order:
-      - mathematics.md
-      - english.md
-
-collections_dir: collections
+  mathematics:
+    output: true
+    permalink: /subjects/mathematics/:name
