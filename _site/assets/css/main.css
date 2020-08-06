@@ -1653,3 +1653,4 @@ body, html, .root, .layout--page { height: 100%; }
   .center-1 { width: 50%; }
   .center-2 { width: 50%; }
   .right { width: 50%; } }
+.spacing { margin-top: 1em; }
