@@ -1,6 +1,7 @@
 ---
 layout: article
 author: Ruby Gems
+group: Plugged-IN
 title: Origami - How to fold Eagle? [Example]
 key: 20180701_1
 tags: Origami

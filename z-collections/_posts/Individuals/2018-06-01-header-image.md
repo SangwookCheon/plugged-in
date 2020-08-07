@@ -1,6 +1,7 @@
 ---
 layout: article
 author: John Doe
+group: Sample Club
 title: Daily Routines in English [Example]
 tags: English
 key: 2018-06-01

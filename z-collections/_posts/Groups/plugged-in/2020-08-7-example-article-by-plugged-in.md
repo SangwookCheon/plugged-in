@@ -1,7 +1,7 @@
 ---
 layout: article
 title: What is Digital Citizenship? [Example]
-creator: Plugged-IN
+group: Plugged-IN
 author: Sangwook Cheon
 tags: Computers
 key: 2020-08-07

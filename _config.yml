@@ -225,5 +225,7 @@ collections:
     permalink: /subjects/mathematics/:name
   mathematics_y1:
     output: true
-  creators:
+  1_Groups:
+    output: true
+  2_Individuals:
     output: true

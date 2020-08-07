@@ -1,0 +1,10 @@
+---
+layout: article
+title: Sample Club
+---
+
+This is where a description of the club goes in.
+
+{% assign temp_posts = site.posts | where_exp: "post", "post.group == 'Sample Club'" %}
+
+{%- include article-list.html articles=temp_posts type='item' show_excerpt='true'-%}

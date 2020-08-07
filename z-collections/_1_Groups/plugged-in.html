@@ -1,0 +1,13 @@
+---
+layout: page
+title: Plugged-IN
+---
+
+<p>[Example] Plugged-In taps into the endless potential of computer education to empower local children in Indonesia. We upload educational content about digital citizenship, computer skills, but we also post anything based on interests of each individual..</p>
+
+<h2>Latest Posts</h2>
+
+
+{% assign temp_posts = site.posts | where_exp: "post", "post.group == 'Plugged-IN'" %}
+
+{%- include article-list.html articles=temp_posts type='item' show_excerpt='true'-%}
