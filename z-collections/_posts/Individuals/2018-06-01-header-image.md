@@ -1,5 +1,6 @@
 ---
 layout: article
+author: John Doe
 title: Daily Routines in English [Example]
 tags: English
 key: 2018-06-01
