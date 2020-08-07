@@ -41,7 +41,7 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: user_name/repo_name
+repository: SangwookCheon/plugged-in
 repository_tree: master
 
 
@@ -49,10 +49,9 @@ repository_tree: master
 ##############################
 paths:
   root    : # title link url, "/" (default)
-  home    : # home layout url, "/" (default)
+  home    : "/explore.html" # home layout url, "/" (default)
   archive : # "/archive.html" (default)
   rss     : # "/feed.xml" (default)
-
 
 ## => Post
 ##############################
