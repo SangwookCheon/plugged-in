@@ -3,7 +3,7 @@
 // for making stripes on any page.
 .stripe-1 {
   color: #6a8caf;
-  background: $main-color-1;
+  background: $grey;
   background-size: 100% 20px;
   margin: 0;
   height: 95px;
@@ -21,7 +21,7 @@
 }
 
 .center-p {
-  font-size: 25px;
+  font-size: 35px;
   text-align: center;
   padding: 1.1rem;
   margin: 0 0 0.5rem 0;
@@ -78,7 +78,7 @@
 // IMPORTANT
 // Styles for the Landing Page.
 
-.landing_left {
+.landing_left_1 {
   width: 55%;
     img {
       max-width:100%;
@@ -88,8 +88,32 @@
   }
 }
 
-.landing_right {
+.landing_right_1 {
   width: 45%;
+}
+
+//reverse
+
+.landing_left_2 {
+  width: 45%;
+}
+
+.landing_right_2 {
+  width: 55%;
+}
+
+// Three panes
+
+.landing_left {
+  width: 33%;
+}
+
+.landing_center {
+  width: 34%;
+}
+
+.landing_right {
+  width: 33%;
 }
 
 // For Responsive
@@ -111,12 +135,32 @@
     width: 50%;
   }
 
-  .landing_left {
+  .landing_left_1 {
     width: 100%
   }
 
-  .landing_right {
+  .landing_right_1 {
     width: 100%
+  }
+
+  .landing_left_2 {
+    width: 100%
+  }
+
+  .landing_right_2 {
+    width: 100%
+  }
+
+  .landing_left {
+    width: 100%;
+  }
+
+  .landing_center {
+    width: 100%;
+  }
+
+  .landing_right {
+    width: 100%;
   }
 
 }
