@@ -42,22 +42,22 @@
 /* Create two unequal columns that floats next to each other */
 .column {
   float: left;
-  padding: 30px 30px 0px 5px;
+  padding: 30px 15px 0px 5px;
 }
 
-.left {
+.footer_left {
   width: 40%;
 }
 
-.center-1 {
+.footer_center-1 {
   width: 20%;
 }
 
-.center-2 {
+.footer_center-2 {
   width: 20%;
 }
 
-.right {
+.footer_right {
   width: 20%;
 }
 
@@ -68,24 +68,47 @@
   clear: both;
 }
 
+// IMPORTANT
+// Styles for the Landing Page.
+
+.landing_left {
+  width: 55%;
+    img {
+      max-width:100%;
+      height:auto;
+      background-color: white;
+  }
+}
+
+.landing_right {
+  width: 45%;
+}
+
+// For Responsive
+
 @media screen and (max-width: 800px) {
-  .left {
+  .footer_left {
     width: 100%;
   }
 
-  .center-1 {
+  .footer_center-1 {
     width: 50%;
   }
 
-  .center-2 {
+  .footer_center-2 {
     width: 50%;
   }
 
-  .right {
+  .footer_right {
     width: 50%;
+  }
+
+  .landing_left {
+    width: 100%
+  }
+
+  .landing_right {
+    width: 100%
   }
 
 }
-
-// IMPORTANT
-// Styles for the Landing Page.

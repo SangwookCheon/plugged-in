@@ -1636,20 +1636,27 @@ body, html, .root, .layout--page { height: 100%; }
 .full-width { width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; }
 
 /* Create two unequal columns that floats next to each other */
-.column { float: left; padding: 30px 30px 0px 5px; }
+.column { float: left; padding: 30px 15px 0px 5px; }
 
-.left { width: 40%; }
+.footer_left { width: 40%; }
 
-.center-1 { width: 20%; }
+.footer_center-1 { width: 20%; }
 
-.center-2 { width: 20%; }
+.footer_center-2 { width: 20%; }
 
-.right { width: 20%; }
+.footer_right { width: 20%; }
 
 /* Clear floats after the columns */
 .row:after { content: ""; display: table; clear: both; }
 
-@media screen and (max-width: 800px) { .left { width: 100%; }
-  .center-1 { width: 50%; }
-  .center-2 { width: 50%; }
-  .right { width: 50%; } }
+.landing_left { width: 55%; }
+.landing_left img { max-width: 100%; height: auto; background-color: white; }
+
+.landing_right { width: 45%; }
+
+@media screen and (max-width: 800px) { .footer_left { width: 100%; }
+  .footer_center-1 { width: 50%; }
+  .footer_center-2 { width: 50%; }
+  .footer_right { width: 50%; }
+  .landing_left { width: 100%; }
+  .landing_right { width: 100%; } }
