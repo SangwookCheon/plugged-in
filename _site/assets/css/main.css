@@ -1649,8 +1649,10 @@ body, html, .root, .layout--page { height: 100%; }
 /* Clear floats after the columns */
 .row:after { content: ""; display: table; clear: both; }
 
+.unselectable { -webkit-user-select: none; /* Chrome all / Safari all */ -moz-user-select: none; /* Firefox all */ -ms-user-select: none; /* IE 10+ */ user-select: none; /* Likely future */ }
+
 .landing_left { width: 55%; }
-.landing_left img { max-width: 100%; height: auto; background-color: white; }
+.landing_left img { max-width: 100%; height: auto; filter: none; box-shadow: none; }
 
 .landing_right { width: 45%; }
 

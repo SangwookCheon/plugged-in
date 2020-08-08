@@ -68,6 +68,13 @@
   clear: both;
 }
 
+.unselectable {
+  -webkit-user-select: none;  /* Chrome all / Safari all */
+  -moz-user-select: none;     /* Firefox all */
+  -ms-user-select: none;      /* IE 10+ */
+  user-select: none;          /* Likely future */
+}
+
 // IMPORTANT
 // Styles for the Landing Page.
 
@@ -76,7 +83,8 @@
     img {
       max-width:100%;
       height:auto;
-      background-color: white;
+      filter: none;
+      box-shadow: none;
   }
 }
 
