@@ -1677,3 +1677,4 @@ body, html, .root, .layout--page { height: 100%; }
   .landing_left { width: 100%; }
   .landing_center { width: 100%; }
   .landing_right { width: 100%; } }
+.div-background { background-color: blue; }
