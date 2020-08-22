@@ -1,6 +1,6 @@
 ---
 layout: article
-title: English
+title: Inggris
 cover: /assets/images/subjects/english.jpg
 ---
 

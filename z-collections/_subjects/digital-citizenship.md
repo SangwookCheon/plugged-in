@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Digital Citizenship
+title: Komputer
 cover: /assets/images/subjects/digital.jpg
 ---
 
