@@ -1,11 +1,11 @@
 ---
 layout: article
-title: Year 1 Mathematics
+title: Year 1 Matematika
 show_date: false
 aside:
   toc: true
 sidebar:
-  nav: mathematics_y1
+  nav: matematika_y1
 cover: /assets/images/subjects/math.jpg
 key: mathematics_y1_intro
 ---

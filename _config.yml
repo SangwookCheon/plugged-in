@@ -220,12 +220,12 @@ collections:
   subjects:
     output: true
     permalink: /subjects/:name
-  mathematics:
+  matematika:
     output: true
-    permalink: /subjects/mathematics/:name
-  mathematics_y1:
+    permalink: /subjects/matematika/:name
+  matematika_y1:
     output: true
-  1_Groups:
+  Groups:
     output: true
-  2_Individuals:
+  Individuals:
     output: true
