@@ -4,8 +4,8 @@ title: 1.2 Subtraction
 aside:
   toc: true
 sidebar:
-  nav: mathematics_y1
-permalink: /subjects/mathematics/year1/2-subtraction
+  nav: matematika_y1
+permalink: /subjects/matematika/year1/2-subtraction
 key: mathematics-y1-subtraction
 ---
 

@@ -4,8 +4,8 @@ title: Overview
 aside:
   toc: true
 sidebar:
-  nav: mathematics_y1
-permalink: /subjects/mathematics/year1/overview
+  nav: matematika_y1
+permalink: /subjects/matematika/year1/overview
 key: mathematics-y1-overview
 ---
 

@@ -8,19 +8,19 @@ header:
   - title: Arsip
     url: /archive.html
 
-mathematics_y1:
+matematika_y1:
   - title: Introduction
     children:
       - title: Overview
-        url: /subjects/mathematics/year1/overview
+        url: /subjects/matematika/year1/overview
       - title: How to Get Help
-        url: /subjects/mathematics/year1/how-to-get-help
+        url: /subjects/matematika/year1/how-to-get-help
   - title: Unit 1. Simple Arithmetic
     children:
       - title: 1.1 Addition
-        url: /subjects/mathematics/year1/1-addition
+        url: /subjects/matematika/year1/1-addition
       - title: 1.2 Subtraction
-        url: /subjects/mathematics/year1/2-subtraction
+        url: /subjects/matematika/year1/2-subtraction
   - title: Unit 2. Trigonometry
     children:
       - title: 2.1 Sine Rule

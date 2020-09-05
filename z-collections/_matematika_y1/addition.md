@@ -4,8 +4,8 @@ title: 1.1 Addition
 aside:
   toc: true
 sidebar:
-  nav: mathematics_y1
-permalink: /subjects/mathematics/year1/1-addition
+  nav: matematika_y1
+permalink: /subjects/matematika/year1/1-addition
 key: mathematics-y1-addition
 tags: Math
 ---
