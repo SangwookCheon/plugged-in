@@ -23,9 +23,15 @@ permalink: /
 </div>
 
 <!-- <h1> Courses or: <button class="button search-button js-search-toggle"><i style="font-size: 35px;" class="fas fa-search"></i></button></h1> -->
-<h1>Subjects</h1>
 
-{%- include article-list.html articles=site.subjects type='grid' size='sm'-%}
+<div class="mt-5"></div>
+
+<h1>Latest Content</h1>
+
+<!-- Limit to 8 articles on the landing page. -->
+{% assign temp_posts = site.posts | where_exp: "post", "post.group == 'Plugged-IN'" %}
+
+{%- include article-list.html articles=site.posts type='item' show_excerpt='true' show_info='true'-%}
 
 <div class="mt-5">
 
